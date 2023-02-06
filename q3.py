@@ -1,6 +1,9 @@
 def average(numbers):
     """
     return the average of a list of numbers
+
+    hint: Look at textbook exercises #2 question 10 for an example of average
+    
     >>> average([32, 78, 48, 71, 93, 71, 79, 44, 5, 42])
     56.3
     >>> average([5, 4, 3, 2, 1])
