@@ -1,11 +1,11 @@
 # a)
 # Create a list with the following five items:
 # 7, 9, "a", "cat", False
-# Assign this list to the variable my_list
+# Assign this list to the variable my_list. Then print my_list.
 
 
-# b) Append 3.14 and 7 to the list
+# b) Append 3.14 and 7 to the list. Then print my_list.
 
 
-# c) Find the index of "cat"
+# c) Find and print the index of "cat"
 
